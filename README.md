@@ -6,7 +6,7 @@ A Swift port of the [Misaki](https://github.com/hexgrad/misaki) grapheme-to-phon
 
 - iOS 18.0+
 - macOS 15.0+
-- (Other Apple platforms may work as well)
+- visionOS 2.0+
 
 ## Installation
 
